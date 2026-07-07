@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 # Student Health Risk Prediction
 
 
