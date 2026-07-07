@@ -1,0 +1,4 @@
+Model,Accuracy,Balanced Accuracy,Macro Precision,Macro Recall,Macro F1
+Baseline Random Forest,0.966171,0.865409,0.95684,0.865409,0.906597
+Class-Weighted Random Forest,0.96528,0.865024,0.951907,0.865024,0.904279
+Tuned Random Forest,0.948108,0.945314,0.829592,0.945314,0.879829

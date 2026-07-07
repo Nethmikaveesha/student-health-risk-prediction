@@ -1,0 +1,14 @@
+,Minimum Missing %,Maximum Missing %,Difference
+bmi,0.71,2.86,2.15
+water_intake,6.27,6.54,0.27
+sleep_quality,8.31,8.53,0.22
+gender,2.99,3.19,0.2
+heart_rate,1.0,1.15,0.15
+diet_type,0.88,1.01,0.13
+smoking_alcohol,4.13,4.24,0.11
+sleep_duration,10.94,11.02,0.08
+step_count,1.95,2.02,0.07
+exercise_duration,0.99,1.06,0.07
+calorie_expenditure,7.65,7.7,0.05
+physical_activity_level,5.26,5.31,0.05
+stress_level,11.96,12.0,0.04

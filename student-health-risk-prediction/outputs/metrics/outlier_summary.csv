@@ -1,0 +1,8 @@
+Feature,Q1,Q3,IQR,Lower Bound,Upper Bound,Potential Outliers,Outlier Percentage
+sleep_duration,6.16,7.81,1.65,3.685,10.285,2020,0.329
+heart_rate,69.4,80.7,11.3,52.45,97.65,2825,0.414
+bmi,21.32,24.66,3.34,16.31,29.67,5352,0.791
+calorie_expenditure,2053.0,2456.0,403.0,1448.5,3060.5,12831,2.014
+step_count,5389.0,12114.0,6725.0,-4698.5,22201.5,0,0.0
+exercise_duration,29.2,49.4,20.2,-1.1,79.7,104,0.015
+water_intake,1.84,2.5,0.66,0.85,3.49,11388,1.761

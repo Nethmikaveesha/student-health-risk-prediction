@@ -1,0 +1,8 @@
+,sleep_duration,heart_rate,bmi,calorie_expenditure,step_count,exercise_duration,water_intake
+sleep_duration,1.0,-0.01,-0.07,-0.0,0.0,0.0,0.0
+heart_rate,-0.01,1.0,0.0,-0.0,-0.01,-0.01,0.0
+bmi,-0.07,0.0,1.0,0.12,-0.02,-0.02,0.0
+calorie_expenditure,-0.0,-0.0,0.12,1.0,0.4,0.39,0.0
+step_count,0.0,-0.01,-0.02,0.4,1.0,0.44,-0.0
+exercise_duration,0.0,-0.01,-0.02,0.39,0.44,1.0,0.0
+water_intake,0.0,0.0,0.0,0.0,-0.0,0.0,1.0
