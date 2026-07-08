@@ -1,0 +1,39 @@
+{
+    "competition": "Predicting Student Health Risk",
+    "competition_series": "Playground Series - Season 6, Episode 7",
+    "selected_model": "Tuned Random Forest",
+    "selection_metric": "Balanced Accuracy",
+    "validation_balanced_accuracy": 0.945314,
+    "random_state": 42,
+    "train_shape": [
+        690088,
+        15
+    ],
+    "test_shape": [
+        295753,
+        14
+    ],
+    "submission_shape": [
+        295753,
+        2
+    ],
+    "target_mapping": {
+        "at-risk": 0,
+        "fit": 1,
+        "unhealthy": 2
+    },
+    "prediction_distribution": {
+        "at-risk": 243690,
+        "unhealthy": 30562,
+        "fit": 21501
+    },
+    "model_parameters": {
+        "n_estimators": 200,
+        "max_depth": 15,
+        "min_samples_split": 2,
+        "min_samples_leaf": 4,
+        "max_features": "sqrt",
+        "class_weight": "balanced"
+    },
+    "submission_file": "outputs/submissions/submission.csv"
+}
